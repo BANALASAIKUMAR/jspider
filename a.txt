@@ -1,1 +1,4 @@
-hello form branch masterss
+shello form branch masterss
+=======
+hello from main branch
+>>>>>>> auto
