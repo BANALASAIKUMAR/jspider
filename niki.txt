@@ -1,0 +1,2 @@
+hello i am git devolper
+echo print ("hello, world!") > niki.txt 
